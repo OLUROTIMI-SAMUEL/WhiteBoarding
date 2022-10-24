@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WhiteBoarding/1.0.0": {
+        "dependencies": {
+          "Loans.Tests": "1.0.0"
+        },
+        "runtime": {
+          "WhiteBoarding.dll": {}
+        }
+      },
+      "Loans.Tests/1.0.0": {
+        "runtime": {
+          "Loans.Tests.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WhiteBoarding/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Loans.Tests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

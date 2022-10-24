@@ -1,0 +1,6 @@
+C:\Users\SAMUEL OLUROTIMI\source\repos\WhiteBoarding\Loans.Tests\bin\Debug\Loans.Tests.dll
+C:\Users\SAMUEL OLUROTIMI\source\repos\WhiteBoarding\Loans.Tests\bin\Debug\Loans.Tests.pdb
+C:\Users\SAMUEL OLUROTIMI\source\repos\WhiteBoarding\Loans.Tests\obj\Debug\Loans.Tests.csproj.AssemblyReference.cache
+C:\Users\SAMUEL OLUROTIMI\source\repos\WhiteBoarding\Loans.Tests\obj\Debug\Loans.Tests.csproj.CoreCompileInputs.cache
+C:\Users\SAMUEL OLUROTIMI\source\repos\WhiteBoarding\Loans.Tests\obj\Debug\Loans.Tests.dll
+C:\Users\SAMUEL OLUROTIMI\source\repos\WhiteBoarding\Loans.Tests\obj\Debug\Loans.Tests.pdb
